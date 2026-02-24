@@ -9,7 +9,8 @@ public class  PalindromeCheckerApp{
         System.out.println("Input text: " + input);
         System.out.println("Reversed text: " + reversed);
         System.out.println("Is is a Palindrome? :" + isPalindrome);
-        }
     }
+}
+
 
 
